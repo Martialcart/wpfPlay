@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XnpL6FsZZSHdCGaY+zzkqYRPisiLL+DazevcM8hk84Fl9WW9ciUiIj964M2mFbovRhQdERRNgKlZ7dTdaQ/R3Q==",
+  "dgSpecHash": "3Gy1J8P/zdGD+uqji1OXuf42KU6GHbie/5Eo3/5xi6Wy/0dCYuqLR/4cADrHZlKVJZqfjrnTVOMqurIbNfMqRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janol\\Programmering\\windows\\WpfAppPlay\\WpfAppPlay.csproj",
+  "projectFilePath": "C:\\Users\\janol\\Programmering\\wpfPlay\\WpfAppPlay.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
